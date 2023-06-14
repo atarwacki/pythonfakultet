@@ -1,0 +1,2 @@
+# pythonfakultet
+projekt na pythona
